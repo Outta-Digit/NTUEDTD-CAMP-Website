@@ -22,7 +22,7 @@ a{
 /* banner 區 */
 .banner_container img{
     width: 100%;
-    height:auto;
+    height: auto;
 }
 
 /* main 區 */
@@ -46,7 +46,7 @@ a{
     margin-bottom: 30px;
 }
 
-    /* about 區 */
+    /* 自我介紹區 */
 .about_content{
     display: flex;
     justify-content: center;
@@ -68,7 +68,7 @@ a{
     color:#524778;
     font-size: 30px;
     font-family: 'Roboto',Arial, sans-serif;
-    font-weight: 500;
+    font-weight: 600;
     letter-spacing: 0.1em;
     padding: 5px 0;
 }
@@ -93,7 +93,7 @@ a{
     color: black;
     font-size: 15px;
     font-family: 'Roboto',Arial, sans-serif;
-    font-weight: 400;
+    font-weight: 600;
     line-height: 25px;
     letter-spacing: 0.1em;
 }
@@ -143,18 +143,12 @@ a{
     color: #FFFFFF;
 }
 
-    /* arduino 區 */
-.arduino_content{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
 /* footer 區 */
 
 footer{
     background-color: #624f82;
     width: 100%;
-    padding:34px 130px;
+    padding:35px 130px;
     display:flex;
     justify-content: space-between;
 }
